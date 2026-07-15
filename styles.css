@@ -1,11 +1,13 @@
-/* Variáveis de Cores */
+/* Variáveis de Cores - Tema Escuro */
 :root {
     --primary-color: #667eea;
     --secondary-color: #764ba2;
-    --text-color: #333;
-    --light-bg: #f7fafc;
-    --white: #ffffff;
-    --shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    --text-color: #e0e0e0;
+    --light-bg: #1a1a1a;
+    --white: #0d0d0d;
+    --shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+    --card-bg: #2a2a2a;
+    --navbar-bg: #111111;
 }
 
 /* Reset e Estilos Globais */
@@ -24,6 +26,7 @@ body {
     color: var(--text-color);
     line-height: 1.6;
     overflow-x: hidden;
+    background: #0d0d0d;
 }
 
 .container {
@@ -34,11 +37,12 @@ body {
 
 /* Navegação */
 .navbar {
-    background: var(--white);
+    background: var(--navbar-bg);
     box-shadow: var(--shadow);
     position: sticky;
     top: 0;
     z-index: 1000;
+    border-bottom: 1px solid #333;
 }
 
 .navbar .container {
@@ -73,8 +77,8 @@ body {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
-    color: var(--white);
+    background: linear-gradient(135deg, #1a1a2e, #16213e);
+    color: var(--text-color);
     padding: 120px 20px;
     text-align: center;
     min-height: 70vh;
@@ -87,6 +91,7 @@ body {
     font-size: 3rem;
     margin-bottom: 1rem;
     animation: fadeInDown 1s ease;
+    color: var(--primary-color);
 }
 
 .hero-content p {
@@ -119,8 +124,9 @@ body {
 }
 
 .btn-secondary {
-    background: var(--light-bg);
+    background: var(--card-bg);
     color: var(--primary-color);
+    border: 1px solid var(--primary-color);
 }
 
 .btn-secondary:hover {
@@ -131,7 +137,8 @@ body {
 /* Seção Sobre */
 .about {
     padding: 80px 20px;
-    background: var(--light-bg);
+    background: #1a1a1a;
+    border-top: 1px solid #333;
 }
 
 .about .container {
@@ -148,13 +155,13 @@ body {
     font-size: 1.1rem;
     max-width: 600px;
     margin: 0 auto;
-    color: #666;
+    color: #999;
 }
 
 /* Projetos */
 .projects {
     padding: 80px 20px;
-    background: var(--white);
+    background: #0d0d0d;
 }
 
 .projects h2 {
@@ -171,17 +178,19 @@ body {
 }
 
 .project-card {
-    background: var(--light-bg);
+    background: var(--card-bg);
     border-radius: 10px;
     padding: 2rem;
     text-align: center;
     transition: all 0.3s ease;
-    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    border: 1px solid #333;
 }
 
 .project-card:hover {
     transform: translateY(-10px);
     box-shadow: var(--shadow);
+    border-color: var(--primary-color);
 }
 
 .project-image {
@@ -196,14 +205,15 @@ body {
 }
 
 .project-card p {
-    color: #666;
+    color: #999;
     margin-bottom: 1.5rem;
 }
 
 /* Skills */
 .skills {
     padding: 80px 20px;
-    background: var(--light-bg);
+    background: #1a1a1a;
+    border-top: 1px solid #333;
 }
 
 .skills h2 {
@@ -227,7 +237,7 @@ body {
 }
 
 .skill-bar {
-    background: #e2e8f0;
+    background: #333;
     border-radius: 10px;
     height: 10px;
     overflow: hidden;
@@ -243,14 +253,16 @@ body {
 /* Contato */
 .contact {
     padding: 80px 20px;
-    background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
-    color: var(--white);
+    background: linear-gradient(135deg, #1a1a2e, #16213e);
+    color: var(--text-color);
     text-align: center;
+    border-top: 1px solid #333;
 }
 
 .contact h2 {
     font-size: 2.5rem;
     margin-bottom: 1rem;
+    color: var(--primary-color);
 }
 
 .contact p {
@@ -267,10 +279,11 @@ body {
 
 /* Footer */
 .footer {
-    background: #1a202c;
-    color: var(--white);
+    background: #000000;
+    color: var(--text-color);
     text-align: center;
     padding: 2rem 20px;
+    border-top: 1px solid #333;
 }
 
 /* Animações */
