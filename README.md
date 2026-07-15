@@ -1,103 +1,105 @@
-# Portfólio Pessoal - Teste0007
+# Portfólio Teste0007 - Dark Mode
 
-Um site de portfólio pessoal moderno e responsivo, criado com HTML e CSS puro.
+Um site portfólio moderno com tema **dark mode**, **galeria de imagens** e **integração com redes sociais**.
 
-## 📋 Características
+## ✨ Características
 
-- ✨ Design moderno e elegante
-- 📱 Totalmente responsivo (mobile, tablet, desktop)
-- 🎨 Tema com gradiente personalizado
-- ⚡ Navegação suave
-- 🎯 Seções bem organizadas:
-  - Home (Hero)
-  - Sobre
-  - Projetos
-  - Skills
-  - Contato
-  - Footer
+- 🌙 **Dark Mode** - Design escuro e moderno com azul ciano
+- 🖼️ **Galeria** - 6 imagens com efeitos hover e overlay
+- 🔗 **Redes Sociais** - Integração com GitHub, LinkedIn, Twitter, Instagram e Email
+- 📱 **Responsivo** - Totalmente adaptado para mobile, tablet e desktop
+- ⚡ **Rápido** - HTML, CSS e JavaScript puro (sem dependências pesadas)
+- 🎨 **Animações** - Transições suaves e efeitos visuais
+
+## 🎯 Seções
+
+1. **Navegação** - Menu sticky com links suaves
+2. **Hero** - Apresentação principal com CTA
+3. **Galeria** - Grid de 6 imagens com efeitos
+4. **Redes Sociais** - Botões de contato integrados
+5. **Footer** - Informações de copyright
 
 ## 🚀 Como Usar
 
 ### Localmente
 
-1. Clone o repositório:
 ```bash
+# Clone o repositório
 git clone https://github.com/eloiescolhido7-star/Teste0007.git
-```
 
-2. Abra o arquivo `index.html` no seu navegador:
-```bash
+# Entre na pasta
 cd Teste0007
+
+# Abra o arquivo index.html no navegador
 open index.html  # macOS
 start index.html # Windows
 ```
 
 ### GitHub Pages
 
-1. Vá para as configurações do repositório
-2. Em "Pages", selecione "main" como branch
-3. Seu site estará disponível em: `https://eloiescolhido7-star.github.io/Teste0007`
+Seu site está disponível em:
+```
+https://eloiescolhido7-star.github.io/Teste0007
+```
 
-## 📁 Estrutura do Projeto
+## 📁 Estrutura
 
 ```
 Teste0007/
 ├── index.html      # Página principal
-├── styles.css      # Estilos CSS
+├── styles.css      # Estilos dark mode
+├── script.js       # Animações e interatividade
 └── README.md       # Este arquivo
 ```
 
 ## 🎨 Personalização
 
 ### Cores
-Edite as variáveis no `styles.css`:
+Edite as variáveis CSS em `styles.css`:
+
 ```css
 :root {
-    --primary-color: #667eea;
-    --secondary-color: #764ba2;
-    --text-color: #333;
-    --light-bg: #f7fafc;
+    --bg-primary: #0a0e27;
+    --accent-color: #00d4ff;
+    /* ... outras cores */
 }
 ```
 
 ### Conteúdo
-Modifique o conteúdo no `index.html`:
-- Substitua "Teste0007" pelo seu nome
-- Atualize as descrições dos projetos
-- Adicione seus links de contato (Email, GitHub, LinkedIn)
+- Atualize o texto em `index.html`
+- Substitua as imagens placeholder por suas próprias
+- Atualize os links de redes sociais
 
-### Adicionar Novas Seções
-1. Adicione uma nova `<section>` no HTML
-2. Estilize no CSS
-3. Atualize a navegação
+### Adicionar Imagens
+Substitua as URLs do placeholder no HTML:
 
-## 📝 Seções Principais
+```html
+<img src="sua-imagem.jpg" alt="Seu projeto">
+```
 
-### Hero
-Banner principal com apresentação pessoal
+## 🔧 Recursos
 
-### Sobre
-Descrição breve sobre você
-
-### Projetos
-Galeria com 3 projetos (personalizável)
-
-### Skills
-Barra de progresso de habilidades
-
-### Contato
-Links para email, GitHub e LinkedIn
+- Scroll suave
+- Menu navegação fluida
+- Animações ao scroll
+- Efeitos hover na galeria
+- Botões de redes sociais interativos
 
 ## 💡 Dicas
 
-- Atualize as emojis na seção de projetos
-- Adicione mais projetos duplicando `.project-card`
-- Customize as cores conforme sua preferência
-- Teste o responsivo em diferentes tamanhos
+1. **Adicionar mais imagens** - Copie e cole a `gallery-item` 
+2. **Mudar cores** - Edite as variáveis `:root` no CSS
+3. **Atualizar redes sociais** - Modifique os atributos `href`
+4. **Melhorar performance** - Comprima suas imagens
+5. **SEO** - Atualize os meta tags no `<head>`
 
-## 📞 Contato
+## 📞 Links de Redes Sociais
 
-Para dúvidas ou sugestões, entre em contato através do formulário do site!
+- GitHub: `https://github.com/seu-usuario`
+- LinkedIn: `https://linkedin.com/in/seu-perfil`
+- Twitter: `https://twitter.com/seu-usuario`
+- Instagram: `https://instagram.com/seu-usuario`
+- Email: `seu-email@example.com`
 
 ---
 
