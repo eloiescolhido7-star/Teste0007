@@ -6,7 +6,7 @@
   <title>Página Mínima</title>
 </head>
 <body>
-  <h1>Olá, Mundo!</h1>
-  <p>Esta é uma página HTML mínima.</p>
+  <h1>Olá, Mundo!</h1><p><h1>SUPER USUARIO #PATRIK ELÓI#</h1><</p>
+  <p>admin. PATRIK ELOI.</p>
 </body>
 </html>
