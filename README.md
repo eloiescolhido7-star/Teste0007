@@ -1,4 +1,4 @@
-# Portfólio Prive8 - Dark Mode
+# Prive8 - Dark Mode
 
 Um site portfólio moderno com tema **dark mode**, **galeria de imagens** e **integração com redes sociais**.
 
