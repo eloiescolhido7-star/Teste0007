@@ -1,4 +1,4 @@
-# Portfólio Teste0007 - Dark Mode
+# Portfólio Prive8 - Dark Mode
 
 Um site portfólio moderno com tema **dark mode**, **galeria de imagens** e **integração com redes sociais**.
 
@@ -25,10 +25,11 @@ Um site portfólio moderno com tema **dark mode**, **galeria de imagens** e **in
 
 ```bash
 # Clone o repositório
-git clone https://github.com/eloiescolhido7-star/Teste0007.git
+# Substitua <repo-url> pelo URL do seu repositório (ex.: https://github.com/<owner>/Prive8.git)
+git clone <repo-url>
 
 # Entre na pasta
-cd Teste0007
+cd Prive8
 
 # Abra o arquivo index.html no navegador
 open index.html  # macOS
@@ -39,13 +40,13 @@ start index.html # Windows
 
 Seu site está disponível em:
 ```
-https://eloiescolhido7-star.github.io/Teste0007
+<your-github-pages-url>
 ```
 
 ## 📁 Estrutura
 
 ```
-Teste0007/
+Prive8/
 ├── index.html      # Página principal
 ├── styles.css      # Estilos dark mode
 ├── script.js       # Animações e interatividade
@@ -95,7 +96,7 @@ Substitua as URLs do placeholder no HTML:
 
 ## 📞 Links de Redes Sociais
 
-- GitHub: `https://github.com/seu-usuario`
+- GitHub: `<repo-url>`
 - LinkedIn: `https://linkedin.com/in/seu-perfil`
 - Twitter: `https://twitter.com/seu-usuario`
 - Instagram: `https://instagram.com/seu-usuario`
@@ -103,4 +104,4 @@ Substitua as URLs do placeholder no HTML:
 
 ---
 
-**Criado com ❤️ por Teste0007**
+**Criado com ❤️ por Prive8**
