@@ -6,5 +6,5 @@
  <h1> <p>admin. <strong>PATRIK ELOI
 <p>estou atualmente programando em html</p>
 <p>estou gostando de aprender acredito no meu potencial</p>
-<h1><strong>bora estudar pra continuar a programação do site <br>só vo testar um codigo aqui vamo ver se funciona eu vo tentar criar um botão
+<h2><strong>bora estudar pra continuar a programação do site <br>só vo testar um codigo aqui vamo ver se funciona eu vo tentar criar um botão
 <button> botão. clique </button>
