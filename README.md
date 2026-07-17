@@ -2,7 +2,7 @@
 <button>segredo</button>
  <h2> <p><strong>PATRIK ELOI</strong>
 <p><h6>estou atualmente programando em html</p>
-<img src =https://www.google.com/search?client=ms-android-americamovil-br-revc&hs=XvbV&sca_esv=bcbe1a3c17fe5261&sxsrf=APpeQnsM0Zv890rfVLkVs4G8po4ZiDrJbA:1784329613608&udm=2&fbs=ABfTbFVGaQeaqnsRPI5sOMG32KszkLt6nAp8aiRKj5vMjqZApOc6yfvD6e0PKT-w9T4UNd5LfevPPp_-UkKLMmZR1GPOiZqOM67JyEFeXx8s7WPqFXe7IiP6JwM9zesE2JsNEM48WVLpGNCFZpG6cakbqr-I74Pr-_J11l2gEpWIOzOKFENailajBCEat-JhXaaBz3hVIQcle55zUvVanlRSCjTqSa7GK4JpBJTfGWvGbJuX1R9vk64&q=cranios+alongados&sa=X&ved=2ahUKEwjS3p_m6dqVAxVBA7kGHUJpMToQtKgLegQIExAB&biw=400&bih=731&dpr=1.8#sv=CAMSVxoyKhBlLWl5dUdvVkJHY1pJdFhNMg5peXVHb1ZCR2NaSXRYTToOQzR4Q3dFQlp5WXJCbk0gBCoXCgFzEhBlLWl5dUdvVkJHY1pJdFhNGAEwAUoECAEQAhgHINLdhYkESggQAhgBIAIoAQ >
+<img src ="https://www.google.com/search?client=ms-android-americamovil-br-revc&hs=XvbV&sca_esv=bcbe1a3c17fe5261&sxsrf=APpeQnsM0Zv890rfVLkVs4G8po4ZiDrJbA:1784329613608&udm=2&fbs=ABfTbFVGaQeaqnsRPI5sOMG32KszkLt6nAp8aiRKj5vMjqZApOc6yfvD6e0PKT-w9T4UNd5LfevPPp_-UkKLMmZR1GPOiZqOM67JyEFeXx8s7WPqFXe7IiP6JwM9zesE2JsNEM48WVLpGNCFZpG6cakbqr-I74Pr-_J11l2gEpWIOzOKFENailajBCEat-JhXaaBz3hVIQcle55zUvVanlRSCjTqSa7GK4JpBJTfGWvGbJuX1R9vk64&q=cranios+alongados&sa=X&ved=2ahUKEwjS3p_m6dqVAxVBA7kGHUJpMToQtKgLegQIExAB&biw=400&bih=731&dpr=1.8#sv=CAMSVxoyKhBlLWl5dUdvVkJHY1pJdFhNMg5peXVHb1ZCR2NaSXRYTToOQzR4Q3dFQlp5WXJCbk0gBCoXCgFzEhBlLWl5dUdvVkJHY1pJdFhNGAEwAUoECAEQAhgHINLdhYkESggQAhgBIAIoAQ" >
 <p>estou gostando de aprender acredito no meu potencial</p>
 <h4><strong>
  <a href="https//eloiescolhido7-star.github.io/Prive8"> meu ² site></a>offline  rsrs
